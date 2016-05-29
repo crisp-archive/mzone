@@ -4,6 +4,10 @@ MathZone(mzone) is a legacy project on mathematics, originally created in my sec
 
 And it had been maintained until senior high school. This is the latest version.
 
+# Build
+
+Open the project and build on Visual Studio 6.0
+
 # Features
 
 * Plenty of mathematical functions
