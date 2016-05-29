@@ -1,0 +1,19 @@
+# Microsoft Developer Studio Generated Dependency File, included by mzone.mak
+
+.\StdAfx.cpp : \
+	".\Include\Calculate.h"\
+	".\Include\Convert.h"\
+	".\Include\DataLimits.h"\
+	".\Include\Document.h"\
+	".\Include\Factorial.h"\
+	".\Include\Input.h"\
+	".\Include\Language.h"\
+	".\Include\MathAss.h"\
+	".\Include\MathProc.h"\
+	".\Include\Message.h"\
+	".\Include\Plug_In.h"\
+	".\Include\Program.h"\
+	".\Include\SpeedTest.h"\
+	".\StdAfx.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

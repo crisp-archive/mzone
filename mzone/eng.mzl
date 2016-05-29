@@ -1,0 +1,198 @@
+[Info]
+Language=English
+ID=10002
+Version=1
+Copyright=David Zhang
+LastEdit=20060502
+
+Part1=2012-2072
+Part2=3010-3084
+Part3=4001-4008
+
+[Plin]
+2029=Math Zone Plug_In
+2030=No plug_in!
+2031=Z: Return Y: Import X: Download
+2064=Enter the name(without space) :
+2065=Enter the path :
+2066=Press the shortcut key:
+2067=This key is used by other plug_in. Do you want to replace?
+2068=Path error, file does not exist!
+2069=Press any key to return.
+2070=A: Replace S: Cancel
+2071=Illegal shortcut key!
+
+[Tips]
+2048=Welcome to Math Zone!
+2049=Do you want to know?
+2050=A: Return  L: Don't mind me again  N: Previous  M: Next
+2051=Which language is used to program mzone?
+2052=The C programming language.
+2053=Do you which kind software mzone is?
+2054=Freeware.
+2055=How many users does mzone have?
+2056=More than ten thousand.
+2057=How many lines source code?
+2058=About 3000.
+2059=How many versions does mzone have?
+2060=From 1.1 to 13.0
+2061=Do you want to know more info?
+2062=Please visit the website.
+
+[Menu]
+2013=4
+2014=Math Zone      Welcome!
+2015=75
+2016=Z: Division X: Equation Root C: Prime Number V: Factorial B: Random Number
+2017=N: Prime Divisor M: P-Number A: Divisor S: Magic Square D: M.C.D F: M.C.M
+2018=G: T-Functions H: Convert System J: Statistic
+2019=W: About R: Refresh E: Select Y: Test T: Help U: Plug_In Q: Exit
+2012=Press <SPACE> to repeat.
+
+[About]
+2020=Program: David Zhang (Math Zone Open Source Project)
+2021=Thanks: Luther Lu, Albert Li, Thomas Li
+2022=Version 
+2023=In touch with:
+2024=D: Help
+2025=F: Check for updating
+2026=A: Website
+2027=Press any key to return to main menu.
+2028=S: E-mail
+
+[Help]
+2032=Error! File lost, help cannot be displayed normally!
+2033=Press any key to return to main menu.
+
+[Updt]
+2034=Math Zone may launches new version. Do you want to check for updating?
+2035=A: Yes      S: No       D: Don't mind again.
+
+[File]
+2036=Math Zone Language File Viewer/Editor
+2037=Language:
+2038=ID:
+2039=Version:
+2040=A: View
+2041=S: Edit
+2042=L: Return to Math Zone
+2043=MZL(Math Zone Language File)Info
+2044=Copyright:
+2045=Q: Exit
+2046=Press any to continue process this file
+2047=D: Select
+
+[Rema]
+3011=High-Precision Division
+3012=Enter the divisor:
+3013=Enter the dividend:
+3014=Divisor:
+3024=Dividend:
+3035=Precision:
+3036=Result:
+3084=Enter precision:
+
+[Conv]
+3010=Convert Number System:
+3068=Convert Number System
+
+[Eqrt]
+3015=Solve One-variable Quadratic Equation
+3016=Enter a, b and c
+3017=Illegal data!      Delta shouldn't be less than 
+3018=The root(s) of this equation:
+
+[Prim]
+3019=Calulate Prime Number
+3020=Enter a number:
+3021=Enter a larger number:
+3022=Prime number(s): 
+3023=Found 
+
+[Test]
+3025=Cannot use high precision timer.
+3026=Press any key to return to main menu.
+3027=Math Mark System Calculation Speed Ability Test
+3028=Testing now.Please wait...
+3029=This procedure may last for less than one minute.
+3030=Int Mark: 
+3031=Float Mark: 
+3032=Compare
+3033=Perfect   7400/7000/8000
+3034=Good      6200/5000/6000
+3083=Middling  5400/5000/5000
+3079=Math Mark
+3081=Disk Mark:
+
+[Rand]
+3037=Generate Random Number
+3038=Enter range
+3039=Enter times of generation:
+3040=Random number(s):
+3041=Min:
+3042=Max:
+3043=Times:
+
+[Pdiv]
+3044=Calculate Prime Divisor
+3045=Prime divisor(s):
+3046=This is a prime number.
+
+[Pyno]
+3047=Calculate Pythagoras number
+3048=Pythagoras number(s):
+
+[MaCD]
+3049=Calculate Maximum Common Divisor
+3050=Enter another number:
+3051=Maximum common divisor:
+3052=These two numbers are prime numbers of each other.
+
+[Divi]
+3053=Calculate Divisor
+3054=Divisor(s):
+
+[MiCM]
+3055=Calculate Minimum Common Multiple
+3056=Minimum common multiple:
+
+[Masq]
+3057=Make Magic Square
+3058=Magic Square
+
+[Tfun]
+3059=Calculate Trigonometric Functions' Value
+3060=Trigonometric functions' value:
+3061=Sine:
+3062=Cosine:
+3063=Tangent:
+3064=Cotangent:
+3065=Secant:
+3066=Cosecant:
+
+[Fact]
+3067=Calculate Factorial
+3082=Factorial:
+
+[Stat]
+3069=Statistic
+3070=Enter the ordinal number you want to modify:
+3071=Enter a new number:
+3072=F: Quit      M: Modify
+3073=Press any key to continue.
+3074=Average:
+3075=Variance:
+3076=Standard Deviation:
+3077=Counter:
+3078=Total:
+3080=Too many numbers!
+
+[Input]
+4001=Data class error or data is too big!
+4002=Illegal data!
+4003=Class: Integer
+4004=Class: Real number
+4005=Data is too large! The program may be busy or the screen can't display all results.
+4006=Do you want to continue?      Y: Yes    N: No    T: Help
+4007=If the program be busy or the screen can't display the menu. Please try to press 'r' to refresh.
+4008=Enter again:
